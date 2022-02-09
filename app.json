@@ -1,6 +1,6 @@
 {
-  "name": "KITARO U-BOT",
-  "description": "KITARO U-BOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "KARMAN U-BOT",
+  "description": "KARMAN U-BOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/276d22aac9f400898cd27.jpg",
   "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/kitaroo/KITARO-USERBOT/KITARO-USERBOT",
-  "telegram": "https://t.me/kitarohey",
+  "repository": "https://github.com/ArmanGG01/KARMAN-USERBOT/KARMAN-USERBOT",
+  "telegram": "https://t.me/PakkPoll",
   "success_url": "https://t.me/kitarochannel",
   "stack": "container",
   "env": {
@@ -86,7 +86,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "✨kitaro-Userbot✨",
+      "value": "💀Karman-Userbot💀",
       "required": false
     },
     "ALIVE_NAME": {
@@ -95,12 +95,12 @@
     },
      "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/276d22aac9f400898cd27.jpg",
+      "value": "https://telegra.ph/file/9a269b4f210f7c9021a2a.jpg",
       "required": false
     },
     "KYY_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
-      "value": "I'am Using kitaro-Userbot ✨",
+      "value": "I'am Using Karman-Userbot 💀",
       "required": false 
     },
     "S_PACK_NAME": {
