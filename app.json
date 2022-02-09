@@ -1,7 +1,7 @@
 {
   "name": "KARMAN U-BOT",
   "description": "KARMAN U-BOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/276d22aac9f400898cd27.jpg",
+  "logo": "https://telegra.ph/file/9a269b4f210f7c9021a2a.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/ArmanGG01/KARMAN-USERBOT/KARMAN-USERBOT",
   "telegram": "https://t.me/PakkPoll",
-  "success_url": "https://t.me/kitarochannel",
+  "success_url": "https://t.me/DeployBot01",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -27,7 +27,7 @@
       "required": true
     },
     "HEROKU_APP_NAME": {
-      "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
+      "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas ngentod)",
       "required": true
     },
     "HEROKU_API_KEY": {
@@ -41,11 +41,11 @@
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001234567890",
+      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001302879778",
       "required": true
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001234567890",
+      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001302879778",
       "required": true
     },
     "COUNTRY": {
@@ -98,7 +98,7 @@
       "value": "https://telegra.ph/file/9a269b4f210f7c9021a2a.jpg",
       "required": false
     },
-    "KYY_TEKS_KUSTOM": {
+    "MAN_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
       "value": "I'am Using Karman-Userbot 💀",
       "required": false 
@@ -109,7 +109,7 @@
     },
     "WEATHER_DEFCITY": {
       "description": "Set the default city for the userbot's weather module.",
-      "value": "padang",
+      "value": "MEDAN",
       "required": false
     },
     "LOGSPAMMER": {
