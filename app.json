@@ -60,7 +60,7 @@
     },
     "PM_AUTO_BAN": {
       "description": "PM Auto-Ban Feature Switch. Also known as the 'bleep blop, this is a bot...' module.",
-      "value": "False",
+      "value": "True",
       "required": true
     },
     "ANTI_SPAMBOT": {
@@ -86,7 +86,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "💀Karman-Userbot💀",
+      "value": "💀𝙺𝙰𝚁𝙼𝙰𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃💀",
       "required": false
     },
     "ALIVE_NAME": {
@@ -100,7 +100,7 @@
     },
     "MAN_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
-      "value": "I'am Using Karman-Userbot 💀",
+      "value": "𝙸'𝚖 𝚞𝚜𝚒𝚗𝚐 𝙺𝙰𝚁𝙼𝙰𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 💀",
       "required": false 
     },
     "S_PACK_NAME": {
