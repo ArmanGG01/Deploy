@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @IDnyaKosong di telegram",
+      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @PakkPoll di telegram",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -32,7 +32,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Heroku API KEY mu, dapatkan dari web 'https://dashboard.heroku.com/account'",
-      "value": "Check Di Heroku Dashboard Mu",
+      "value": "Check Di Heroku Dashboard Mu Kontol",
       "required": true
     },
     "BOTLOG": {
@@ -41,11 +41,13 @@
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001302879778",
+      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : ",
+      " value": "-1001302879778",
       "required": true
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001302879778",
+      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : ",
+      " value": "-1001302879778",
       "required": true
     },
     "COUNTRY": {
@@ -99,12 +101,13 @@
       "required": false
     },
     "MAN_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .karalive (Isi Terserah)",
       "value": "𝙸'𝚖 𝚞𝚜𝚒𝚗𝚐 𝙺𝙰𝚁𝙼𝙰𝙽-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 💀",
       "required": false 
     },
     "S_PACK_NAME": {
       "description": "Nama Sticker Pack Mu",
+      " value": “KONTOL",
       "required": false
     },
     "WEATHER_DEFCITY": {
@@ -123,7 +126,7 @@
     },
     "BOT_USERNAME": {
       "description": "Username Bot Kamu Di @BotFather, Tanpa @",
-      "value": "BotFather",
+      "value": "𝙲𝚘𝚗𝚝𝚘𝚑 armanbotisssss_bot",
       "required": true
     }
   },
