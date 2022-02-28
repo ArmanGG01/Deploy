@@ -1,3 +1,4 @@
+
 {
   "name": "KARMAN U-BOT",
   "description": "KARMAN U-BOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
@@ -28,7 +29,8 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas ngentod)",
-      "required": true
+      "required": true,
+      "value": "𝙻𝙸𝙰𝚃 𝙿𝙰𝙻𝙸𝙽𝙶 𝙰𝚃𝙰𝚂 𝙺𝙾𝙽𝚃𝙾𝙻"
     },
     "HEROKU_API_KEY": {
       "description": "Heroku API KEY mu, dapatkan dari web 'https://dashboard.heroku.com/account'",
@@ -41,11 +43,13 @@
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh :-1001302879778",
+      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh :",
+      "value": " -1001302879778",
       "required": true
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh :-1001302879778",
+      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh :",
+      "value": " -1001302879778",
       "required": true
     },
     "COUNTRY": {
